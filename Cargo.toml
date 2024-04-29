@@ -11,7 +11,7 @@ crate-type = ["cdylib", "rlib"]
 default = ["console_error_panic_hook"]
 
 [dependencies]
-imagequant = { version = "4.2.0", default-features = false }
+imagequant = { version = "4.3.1", default-features = false }
 lodepng = "=3.7.2"
 wasm-bindgen = "0.2.84"
 
